@@ -6,3 +6,8 @@
   background-color: #111111;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+header{
+  display: flex;
+  justify-content: center;
+  color: white;
+}

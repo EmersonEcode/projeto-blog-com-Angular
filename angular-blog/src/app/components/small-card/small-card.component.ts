@@ -12,4 +12,6 @@ photoCover: string = ''
 titleCover: string = ''
 @Input()
 dateCover: string = ''
+@Input()
+Id: string = "0"
 }
