@@ -1,0 +1,20 @@
+.content__menu-bar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.menu-bar__nav-bar{
+  display: flex;
+  flex-direction: row;
+  line-height: 20px;
+  list-style: none;
+}
+
+.menu-bar__nav-bar > li{
+  margin-right: 20px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}

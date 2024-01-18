@@ -1,0 +1,29 @@
+.container__menu-title
+{
+  padding: 5px;
+  font-size:69px;
+  display: flex;
+  flex-direction: column;
+}
+
+.menu-title__photo{
+  width: 60%;
+  height: 180px;
+  align-self: center;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+
+}
+
+.menu-title__photo > img{
+  max-width: 100%;
+  min-height: 100%;
+}
+.container__menu-title > hr
+{
+  margin-top: 20px;
+  border-color: rgb(117, 0, 0);
+}
+
+
